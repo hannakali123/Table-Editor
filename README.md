@@ -7,7 +7,7 @@ Tech-Stack: Laravel, Vue, Vuetify, MySQL
 
 ## Funktionen
 
-- CSV-Datei (Haus-Format) hochladen und prüfen (Fehlermeldung bei falschem Format/kaputter Datei)
+- CSV-Datei (Haus-Format) hochladen und prüfen 
 - Bereits hochgeladene Dateien anzeigen, laden und löschen
 - Tabelle im Browser anzeigen und Werte direkt bearbeiten (passende Eingabefelder je Typ)
 - CSV jederzeit wieder exportieren (Input = Output Format)
