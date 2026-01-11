@@ -52,7 +52,7 @@ npm install
 ```
 2) Konfiguration anlegen + App-Key setzen
 ```bash
-cp .env.example .env
+cp ".env Kopie" .env
 php artisan key:generate
 ```
 3) Datenbank in der Datei .env eintragen (Beispiel)
@@ -60,7 +60,7 @@ php artisan key:generate
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=deine_db
+DB_DATABASE=deine_db 
 DB_USERNAME=dein_user
 DB_PASSWORD=dein_passwort
 ```
