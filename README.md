@@ -1,6 +1,6 @@
 # Hausdaten-Editor
 
-Kleiner Web-Editor zum Bearbeiten von Hausdaten im CSV-Format (vereinfachte Version von Microsoft Excel).
+Kleiner Web-Editor zum Bearbeiten von Hausdaten im CSV-Format mit Bearbeitung im Browser (vereinfacht wie Excel).
 Man kann CSV-Dateien hochladen, die Daten im Browser als Tabelle bearbeiten und wieder als CSV exportieren. Optional können die Datensätze auch in einer MySQL-Datenbank gespeichert und wieder exportiert werden.
 
 Tech-Stack: Laravel, Vue, Vuetify, MySQL
