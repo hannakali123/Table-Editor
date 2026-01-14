@@ -1,3 +1,7 @@
+## Preview
+![Hauseeditor Screenshot](screenshots/Bildschirmfoto.png)
+
+
 # Hausdaten-Editor
 
 Kleiner Web-Editor zum Bearbeiten von Hausdaten im CSV-Format mit Bearbeitung im Browser (vereinfacht wie Excel).
