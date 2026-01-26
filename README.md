@@ -56,7 +56,7 @@ npm install
 ```
 2) Konfiguration anlegen + App-Key setzen
 ```bash
-cp ".env Kopie" .env
+cp .env.example .env
 php artisan key:generate
 ```
 3) Datenbank in der Datei .env eintragen (Beispiel)
